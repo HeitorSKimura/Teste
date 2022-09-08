@@ -1,6 +1,6 @@
 # Aula de GIT na UNIMAR
-## Teste
-### teste
+
+Teste
 
 Vamos ter uma aula de git
 
@@ -15,3 +15,5 @@ print("hello world!!!")
 ```php
 echo "Hello World";
 ```
+
+commit test 
